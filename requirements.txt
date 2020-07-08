@@ -1,4 +1,5 @@
 six==1.15.0
 luigi==2.8.13
 git+https://github.com/riga/law.git
+git+https://github.com/riga/scinum.git
 jupyter_contrib_nbextensions==0.5.1
