@@ -1,3 +1,4 @@
 six==1.15.0
 luigi==2.8.13
--e git+git://github.com/riga/law.git#egg=law
+git+https://github.com/riga/law.git
+jupyter_contrib_nbextensions==0.5.1
