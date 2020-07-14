@@ -1,0 +1,17 @@
+/* custom css styles for prettier RISE presentation */
+
+body.notebook_app.rise-enabled div#rise-footer {
+  bottom: 1em !important;
+  left: 2em !important;
+  font-size: 12pt !important;
+}
+
+body.notebook_app.rise-enabled div.slide-number {
+  bottom: 1em !important;
+  right: 2em !important;
+  font-size: 12pt !important;
+}
+
+body.notebook_app.rise-enabled i#help_b {
+  display: none !important;
+}
